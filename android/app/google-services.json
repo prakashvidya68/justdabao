@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519106978461",
+    "project_id": "justdabao-52706",
+    "storage_bucket": "justdabao-52706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519106978461:android:b7adc9ef32617c52f0aa74",
+        "android_client_info": {
+          "package_name": "com.example.justdabao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519106978461-bq6sh92e7ikm53tbtk230spna7vmqj5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justdabao",
+            "certificate_hash": "0944d7ac591d22e271c8c8cc0c748d70424edc72"
+          }
+        },
+        {
+          "client_id": "519106978461-kio8rc8308jkvl7av31oumaf05cf3l7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZEMQKjHcWByz6Lw20uH7hdQGfWXJbzro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519106978461-kio8rc8308jkvl7av31oumaf05cf3l7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
